@@ -1,6 +1,6 @@
 # kawaii-kode
 
-Welcome to **kawaii-kode**, a small, passionate community of friends dedicated to bringing our creative projects to life. Through our projects, we focus on learning, collaboration and creating small-scale applications with a personal touch. We work primarily on projects intended for personal use or small user groups and we strive to keep things fun and light-hearted. Though we come from different backgrounds, we share a deep passion for coding and are united by our goal of learning and building something meaningful together.
+Welcome to **kawaii-kode**, a small, passionate community of friends dedicated to bringing our creative projects to life. Through our projects, we focus on learning, collaboration and creating small-scale applications with a personal touch. We work primarily on projects intended for personal use or small user groups and we strive to keep things fun and light-hearted.
 
 | Name              | Team             | Skills                                    | Key       | kawaii |
 |-------------------|------------------|-------------------------------------------|-----------|--------|
