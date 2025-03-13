@@ -7,14 +7,14 @@ Welcome to **kawaii-kode**, a small, passionate community of friends dedicated t
 | Suki Tsubaki      | Sakura-No-Yume   | PHP, HTML, CSS, Python, TYPO3             | Web       | 🌸🐼    |
 | Aiko Kobayashi    | Sakura-No-Yume   | C++, Java, Swift, Python                  | Backend   | 🤖👾    |
 | Yuki Shimizu      | Sakura-No-Yume   | JavaScript, Python, HTML, CSS             | Web       | 🐼🌻    |
-| Nanako Hirano     | Bento-Bytes      | Java, Python, JavaScript                  | Backend   | 🌷🎮    |
-| Keiko Oda         | Bento-Bytes      | JavaScript, React, Swift                  | Frontend  | 🐧🍉    |
-| Miku Fujimoto     | Bento-Bytes      | Swift, C++, Python, Java                  | Backend   | 🎨👹    |
-| Keisuke Tanaka    | NeoNeko-Horizon  | C, C++, Python, Swift, Java, Ruby, React  | Fullstack | 👾🍀    |
-| Tetsuya Kobayashi | NeoNeko-Horizon  | Java, JavaScript, SQL, Python             | Backend   | 👻🍓    |
-| Taiki Sugimoto    | NeoNeko-Horizon  | Python, Perl, Ruby, JavaScript, SQL, Rust | Backend   | 🦄🧸    |
-| Andrei Pavlov     | NeoNeko-Horizon  | Python, CSS, HTML, PHP, JavaScript, SQL   | Fullstack | 🐈‍⬛👽    |
-| Alexander Schmidt | NeoNeko-Horizon  | JavaScript, Rust, Python, SQL             | Backend   | 🦁🌈    |
+| Nanako Hirano     | bento-bytes      | Java, Python, JavaScript                  | Backend   | 🌷🎮    |
+| Keiko Oda         | bento-bytes      | JavaScript, React, Swift                  | Frontend  | 🐧🍉    |
+| Miku Fujimoto     | bento-bytes      | Swift, C++, Python, Java                  | Backend   | 🎨👹    |
+| Keisuke Tanaka    | NeoNeko Horizon  | C, C++, Python, Swift, Java, Ruby, React  | Fullstack | 👾🍀    |
+| Tetsuya Kobayashi | NeoNeko Horizon  | Java, JavaScript, SQL, Python             | Backend   | 👻🍓    |
+| Taiki Sugimoto    | NeoNeko Horizon  | Python, Perl, Ruby, JavaScript, SQL, Rust | Backend   | 🦄🧸    |
+| Andrei Pavlov     | NeoNeko Horizon  | Python, CSS, HTML, PHP, JavaScript, SQL   | Fullstack | 🐈‍⬛👽    |
+| Alexander Schmidt | NeoNeko Horizon  | JavaScript, Rust, Python, SQL             | Backend   | 🦁🌈    |
 
 ---
 
