@@ -11,7 +11,7 @@ Welcome to **kawaii-kode**, a small, passionate community of friends dedicated t
 | Keiko Oda         | bento-bytes      | JavaScript, React, Swift                  | Frontend  | 🐧🍉    |
 | Miku Fujimoto     | bento-bytes      | Swift, C++, Python, Java                  | Backend   | 🎨👹    |
 | Keisuke Tanaka    | NeoNeko Horizon  | C, C++, Python, Swift, Java, Ruby, React  | Fullstack | 👾🍀    |
-| Tetsuya Kobayashi | NeoNeko Horizon  | Java, JavaScript, SQL, Python             | Backend   | 👻🍓    |
+| Tetsuya Kobayashi | NeoNeko Horizon  | Java, JavaScript, SQL, Python, Go         | Backend   | 👻🍓    |
 
 ---
 
